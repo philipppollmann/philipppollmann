@@ -13,6 +13,7 @@
 
 
 <h2 align="center">Tools & languages 🔧</h2>
+<h3 align="center">Backend 💾</h3>
 <div style="display: flex">
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" height="35">
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" height="35">
