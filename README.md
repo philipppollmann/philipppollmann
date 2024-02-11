@@ -3,7 +3,7 @@
 
 - 🔭 I am a **dual student at Deutsche Telekom**
 
-- 👨‍💻 All of my projects are available at [philipp.pollmann.rocks](philipp.pollmann.rocks)
+- 👨‍💻 All of my projects are available at [philipp.pollmann.rocks](https://philipp.pollmann.rocks)
 
 
 <div align="center">
