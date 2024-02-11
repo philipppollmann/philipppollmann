@@ -13,3 +13,4 @@
 
 
 <h2 align="center">Tools & languages 🔧</h2>
+  <img src="https://img.shields.io/badge/Kotlin-B125EA&style=for-the-badge&logo=kotlin&logoColor=white" height="50" alt="languages graph"  />
