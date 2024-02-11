@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Philipp</h1>
-<h3 align="center">A passionate DevOps Engineer from Düsseldorf Germany🇩🇪.</h3>
+<h2 align="center">A passionate DevOps Engineer from Düsseldorf Germany🇩🇪.</h2>
 
 - 🔭 I am a **dual student at Deutsche Telekom**
 
@@ -11,4 +11,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=philipppollmann&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+
+<h2 align="center">Tools & languages 🔧</h2>
