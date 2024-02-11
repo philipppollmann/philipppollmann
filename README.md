@@ -13,4 +13,5 @@
 
 
 <h2 align="center">Tools & languages 🔧</h2>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="35">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" height="35">
