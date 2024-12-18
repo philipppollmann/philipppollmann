@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Philipp</h1>
-<h2 align="center">A passionate DevOps Engineer from Düsseldorf Germany🇩🇪.</h2>
+<h2 align="center">A passionate DevOps Engineer from Cologne Germany</h2>
 
 - 🔭 I am a **dual student at Deutsche Telekom**
 
