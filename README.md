@@ -6,9 +6,7 @@
 - 👨‍💻 All of my projects are available at [philipp.pollmann.rocks](https://philipp.pollmann.rocks)
 
 
-<div align="center">
-  ![philipppollmann's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=philipppollmann&theme=dark&show_icons=true&hide_border=false&layout=compact)
-</div>
+![philipppollmann's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=philipppollmann&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 
 <h2 align="center">Tools & languages 🔧</h2>
