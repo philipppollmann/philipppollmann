@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Philipp</h1>
-<h2 align="center">A passionate DevOps Engineer from Cologne, Germany</h2>
+<h2 align="center">DevOps Engineer & Product Owner from Cologne, Germany</h2>
 
-<p align="center">🔭 I am a <strong>dual MLOps at Deutsche Telekom</strong></p>
 <p align="center">👨‍💻 All of my projects are available at <a href="https://philipp.pollmann.rocks">philipp.pollmann.rocks</a></p>
 
 <p align="center">
