@@ -4,6 +4,10 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=philipppollmann&theme=dark&hide_border=false" alt="philipppollmann's GitHub Streak">
 </p>
+<p align="center">
+  <img src="./profile-summary-card-output/github-dark-mode/1-repos-per-language.svg" alt="Top Languages by Repo" width="400">
+  <img src="./profile-summary-card-output/github-dark-mode/2-most-commit-language.svg" alt="Top Languages by Commit" width="400">
+</p>
 <h2 align="center">Tools & languages 🔧</h2>
 <h3 align="center">Frontend 💻</h3>
 <p align="center">
